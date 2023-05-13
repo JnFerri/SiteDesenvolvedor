@@ -1,0 +1,31 @@
+
+
+.banner__container{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    justify-content: space-around;
+}
+
+.banner__imagem{
+    width: 90vh;
+}
+
+.banner__text-container{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+
+}
+.banner__h1{
+    color: black;
+    font-size: 60px;
+    width: 100%;
+    font-family: 'Merienda', cursive;
+
+}
+
+.banner__h2{
+    font-family: 'Merienda', cursive;
+    font-size: 30px;
+}
