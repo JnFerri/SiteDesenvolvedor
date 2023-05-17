@@ -1,15 +1,14 @@
 
 
 .banner__container{
-    display: flex;
-    align-items: center;
-    width: 100%;
-    justify-content: space-around;
+background-image: url(../../../public/images/Desenvolvedor\ web.png) ;
+background-size: 100% ;
+background-size: cover;
+background-repeat: no-repeat;
+
 }
 
-.banner__imagem{
-    width: 90vh;
-}
+
 
 .banner__text-container{
     display: flex;
@@ -18,14 +17,11 @@
 
 }
 .banner__h1{
-    color: black;
+    color: white;
     font-size: 60px;
     width: 100%;
     font-family: 'Merienda', cursive;
+    text-align: center;
 
 }
 
-.banner__h2{
-    font-family: 'Merienda', cursive;
-    font-size: 30px;
-}
